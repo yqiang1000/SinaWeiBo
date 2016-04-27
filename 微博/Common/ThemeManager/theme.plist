@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Cat</key>
+	<string>Skins/cat</string>
+	<key>Bluemoon</key>
+	<string>Skins/bluemoon</string>
+	<key>Darkfairy</key>
+	<string>Skins/darkfairy</string>
+	<key>Darknight</key>
+	<string>Skins/darknight</string>
+	<key>Fisheye</key>
+	<string>Skins/fisheye</string>
+	<key>Forest</key>
+	<string>Skins/forest</string>
+	<key>Graypro</key>
+	<string>Skins/graypro</string>
+	<key>Happytoy</key>
+	<string>Skins/happytoy</string>
+	<key>Honey</key>
+	<string>Skins/honey</string>
+	<key>Kuiba</key>
+	<string>Skins/kuiba</string>
+	<key>Nightclub</key>
+	<string>Skins/nightclub</string>
+	<key>Oceanrun</key>
+	<string>Skins/oceanrun</string>
+	<key>Pinkpink</key>
+	<string>Skins/pinkpink</string>
+	<key>Puppy</key>
+	<string>Skins/puppy</string>
+	<key>Village</key>
+	<string>Skins/village</string>
+</dict>
+</plist>
